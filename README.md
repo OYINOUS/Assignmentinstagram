@@ -1,2 +1,0 @@
-# Assignmentinstagram
-A login page
